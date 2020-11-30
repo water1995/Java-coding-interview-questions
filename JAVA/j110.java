@@ -4,6 +4,7 @@ public class j110 {
 
     String str = "Learn with Genevieve Xalxo";
     splitWords(str);
+    
   }
 
   private static void splitWords(String str){
